@@ -12,10 +12,6 @@
 #       For eg: if filename is folder1_folder2_folder3_S3upload_20180901.csv. In this case S3upload is the keyword.
 #       s3_path = folder1/folder2/folder3/
 #    5. Everything before keyword will be considered as s3 path where the file will be uploaded.
-#
-#    Version:
-#      Please check Bitbucket for Change, Management & Details.
-#
 # **********************************************************************************************************************
 
 from pprint import pprint
